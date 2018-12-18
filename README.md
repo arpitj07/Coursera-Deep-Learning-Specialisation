@@ -23,8 +23,8 @@ This repo contains all my work for this specialization. All the code base are ta
 
   - [Week 1 - PA 1 - Initialization](https://github.com/arpitj07/Coursera-Deep-Learning-Specialisation/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/WEEK%202/Initialization.ipynb)
   - [Week 1 - PA 2 - Regularization](https://github.com/arpitj07/Coursera-Deep-Learning-Specialisation/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/WEEK%202/Regularization%2B-%2Bv2.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking]()
-  - [Week 2 - PA 4 - Optimization Methods]()
+  - [Week 1 - PA 3 - Gradient Checking](https://github.com/arpitj07/Coursera-Deep-Learning-Specialisation/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/WEEK%202/Gradient%2BChecking%2Bv1.ipynb)
+  - [Week 2 - PA 4 - Optimization Methods](https://github.com/arpitj07/Coursera-Deep-Learning-Specialisation/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/WEEK%202/Optimization%2Bmethods.ipynb)
   - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/arpitj07/Coursera-Deep-Learning-Specialisation/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/WEEK%202/Tensorflow%2BTutorial.ipynb)
 
 - Course 3: Structuring Machine Learning Projects
