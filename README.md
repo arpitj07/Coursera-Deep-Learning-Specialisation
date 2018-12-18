@@ -46,8 +46,11 @@ This repo contains all my work for this specialization. All the code base are ta
   
   
   ### Certifications:
-  - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/FPS5XV275RPP)
-  - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/78HUMUW5WCBD)
+  - [x] [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/FPS5XV275RPP)
+  - [x] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/78HUMUW5WCBD)
+  - [ ] [Structuring Machine Learning Projects]()
+  - [ ] [Convolutional Neural Networks]() 
+  - [ ] [Sequence Models]()
   
   
   
