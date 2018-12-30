@@ -34,7 +34,7 @@ This repo contains all my work for this specialization. All the code base are ta
 - Course 4: Convolutional Neural Networks
 
   - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/arpitj07/Coursera-Deep-Learning-Specialisation/blob/master/Convolutional%20Neural%20Network/Convolution_model_Step_byStep.ipynb)
-  - [Week 1 - PA 2 - Convolutional Model: application]()
+  - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/arpitj07/Coursera-Deep-Learning-Specialisation/blob/master/Convolutional%20Neural%20Network/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
   - [Week 2 - PA 1 - Keras - Tutorial - Happy House]()
   - [Week 2 - PA 2 - Residual Networks]()
   
